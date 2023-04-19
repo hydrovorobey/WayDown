@@ -8,7 +8,8 @@
 
 
 **Principal scheme of the framework**
-![image](https://user-images.githubusercontent.com/25793656/233016407-2b498d96-7b49-41d1-8818-69f890dc7dce.png)
+![WayDown_diag](https://user-images.githubusercontent.com/25793656/233024719-b97099b6-79ef-4a93-b42b-9edfc78ad092.png)
+
 
 
 
