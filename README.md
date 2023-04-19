@@ -8,7 +8,8 @@
 
 
 **Principal scheme of the framework**
-![image](https://user-images.githubusercontent.com/25793656/216564384-7d884138-27ca-4f9c-8606-abb7e67c0706.png)
+![image](https://user-images.githubusercontent.com/25793656/233016407-2b498d96-7b49-41d1-8818-69f890dc7dce.png)
+
 
 
 *Usage of the package:*
