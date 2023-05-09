@@ -1,5 +1,7 @@
 # WayDown: **R-package for temporal disaggregation of daily precipitation to sub-hourly scale with stochastic copula - markov chain model** 
 
+[![Github All Releases](https://img.shields.io/github/downloads/hydrovorobey/WayDown/total.svg)]()
+
 **Licence** Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
 
 **Main reference** - XXX
