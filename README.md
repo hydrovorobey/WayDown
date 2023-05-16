@@ -18,7 +18,7 @@
 *Usage of the package:*
 - install the package from GitHub
 - install required libs (if necessary)
-- load daily and sub-daily (e.g. 1 min, 10 min) data of precipitation in workspace (data must be provided in specified format)
+- load daily (data to disaggregate) and sub-daily (e.g. 1 min, 10 min measured data) precipitation in workspace (data must be provided in specified format, see example)
 - select required parameters for convergence and max iteration number
 - run the WayDown function - it returns a dataframe with disaggregated time-series
 
@@ -27,7 +27,7 @@
 - following libs are required: copula (>= 1.0-1), markovchain (>= 0.8.5-4), lubridate (>= 1.7.10)
 - input data requirements: 
     - no missing values are allowed in daily data
-    - missing values are allowed in sub-daily data, but the model will freez/crash if for each at least few full days with precipitation events (without NAs) will not be found
+    - missing values are allowed in sub-daily data, but the model will freeze/crash if at least few full days with precipitation events (without NAs) will not be found for each month
 
 *Publications*:
 - xxx
