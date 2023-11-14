@@ -10,7 +10,8 @@
 
 
 **Principal scheme of the framework**
-![WayDown_diag](https://user-images.githubusercontent.com/25793656/233024719-b97099b6-79ef-4a93-b42b-9edfc78ad092.png)
+![WayDown_diag](https://github.com/hydrovorobey/WayDown/assets/25793656/5b300688-05c8-432f-8547-153028048a20)
+
 
 
 
