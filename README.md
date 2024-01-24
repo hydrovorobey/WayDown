@@ -18,12 +18,10 @@
 
 *Usage of the package:*
 - download and last release of the package from GitHub
-- install package and required libs
+- install package and required libs:
   
 install.packages('copula')
-
 install.packages('markovchain')
-
 install.packages("path_to_package/WayDown/", repos=NULL, type="source")
 
 - load daily (data to disaggregate) and sub-daily (e.g. 1 min, 10 min measured data) precipitation in workspace (data must be provided in specified format, see example)
