@@ -35,5 +35,5 @@ install.packages("path_to_package/WayDown/", repos=NULL, type="source")
 
 *Publications*:
 - Simulating sub-hourly rainfall data for current and future periods using two statistical disaggregation models – case studies from Germany and South Korea
-Ivan Vorobevskii, Jeongha Park, Dongkyun Kim, Klemens Barfus, and Rico Kronenberg, 2024, HESS, [xxx](https://doi.org/10.5194/hess-2023-108)https://doi.org/10.5194/hess-2023-108
+Ivan Vorobevskii, Jeongha Park, Dongkyun Kim, Klemens Barfus, and Rico Kronenberg, 2024, HESS, https://doi.org/10.5194/hess-2023-108
 
