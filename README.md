@@ -17,8 +17,11 @@
 
 
 *Usage of the package:*
-- install the package from GitHub
-- install required libs (if necessary)
+- download and last release of the package from GitHub
+- install package and required libs
+install.packages('copula')
+install.packages('markovchain')
+install.packages("path_to_package/WayDown/", repos=NULL, type="source")
 - load daily (data to disaggregate) and sub-daily (e.g. 1 min, 10 min measured data) precipitation in workspace (data must be provided in specified format, see example)
 - select required parameters for convergence and max iteration number
 - run the WayDown function - it returns a dataframe with disaggregated time-series
@@ -31,5 +34,6 @@
     - missing values are allowed in sub-daily data, but the model will freeze/crash if at least few full days with precipitation events (without NAs) will not be found for each month
 
 *Publications*:
-- xxx
+- Simulating sub-hourly rainfall data for current and future periods using two statistical disaggregation models – case studies from Germany and South Korea
+Ivan Vorobevskii, Jeongha Park, Dongkyun Kim, Klemens Barfus, and Rico Kronenberg, 2024, HESS, [xxx](https://doi.org/10.5194/hess-2023-108)https://doi.org/10.5194/hess-2023-108
 
