@@ -4,7 +4,7 @@
 
 **Licence** Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
 
-**Main reference** - https://doi.org/10.5194/hess-2023-108
+**Main reference** - https://doi.org/10.5194/hess-28-391-2024
 
 **Stable version with examples** - https://github.com/hydrovorobey/WayDown/releases/tag/v1.0
 
