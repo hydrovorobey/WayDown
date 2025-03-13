@@ -6,7 +6,7 @@
 
 **Main reference** - https://doi.org/10.5194/hess-28-391-2024
 
-**Stable version with examples** - https://github.com/hydrovorobey/WayDown/releases/tag/v1.0
+**Stable version with examples** - https://github.com/hydrovorobey/WayDown/releases/tag/v1.1
 
 
 **Principal scheme of the framework**
